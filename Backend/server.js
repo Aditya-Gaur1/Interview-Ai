@@ -6,13 +6,11 @@ require("dotenv").config();
 
 const app = require("./app");
 const connectToDB = require("./src/config/database");
-const generateInterviewReport = require('./src/services/ai.service')
 const port = process.env.PORT || 3000;
 
 console.log("3. Starting DB connection");
 
 connectToDB();
-//generateInterviewReport()
 console.log("4. DB connection function called");
 
 app.listen(port, () => {

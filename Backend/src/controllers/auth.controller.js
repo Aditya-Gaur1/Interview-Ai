@@ -200,7 +200,7 @@ async function googleCallbackController(req, res) {
     console.log("JWT cookie created");
 
     // Redirect to frontend
-    return res.redirect(`${process.env.FRONTEND_URL}/dashboard`);
+    return res.redirect(`${process.env.FRONTEND_URL}/`);
   } catch (error) {
     console.error("Google OAuth Error:", error);
 
