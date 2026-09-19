@@ -57,7 +57,7 @@ https://interview-ai-1-t2zw.onrender.com
 ---
 
 ## 🏗️ Project Architecture
-
+<img width="4288" height="7461" alt="diagram (1)" src="https://github.com/user-attachments/assets/1aa23286-1bc9-411b-afcf-999fdd2b3f0c" />
 ```text
 Interview-AI
 │
