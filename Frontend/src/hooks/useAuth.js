@@ -2,7 +2,7 @@
 
 import { useContext } from "react";
 
-import { AuthContext } from "../context/Auth.context.jsx";
+import { AuthContext } from "../context/auth.context.jsx";
 
 import {
   login,
