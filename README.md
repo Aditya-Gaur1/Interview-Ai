@@ -3,14 +3,8 @@
 An AI-powered interview preparation platform built with the MERN stack. Users can upload their resume, provide a target job role, job description, and self-description, and receive a personalized interview preparation report generated using AI.
 
 ## 🚀 Live Demo
-
-**Frontend:**  
 https://interview-ai-1-t2zw.onrender.com
 
-**Backend API:**  
-https://interview-ai-h7ek.onrender.com
-
----
 
 ## ✨ Features
 
